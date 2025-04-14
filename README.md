@@ -68,9 +68,9 @@ This project demonstrates test automation using industry-standard tools and fram
 
 - **Clone the repo:**
 ```
-git clone https://github.com/your-username/amazon-api-automation.git
+git clone https://github.com/mohammedyouness/fcs-automation-task
 
-cd amazon-api-automation
+cd fcs-automation-task
 ```
 
 - **Install dependencies:**

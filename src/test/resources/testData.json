@@ -1,8 +1,8 @@
 {
     "baseUrl": "https://www.amazon.eg/-/en/",
     "credentials": {
-        "email": "1030819098",
-        "password": "M0h@med1"
+        "email": "your-email",
+        "password": "your-password"
     },
     "address": {
         "fullName": "Mohamed Ahmed",
