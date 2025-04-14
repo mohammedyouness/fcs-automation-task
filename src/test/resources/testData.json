@@ -1,0 +1,23 @@
+{
+    "baseUrl": "https://www.amazon.eg/-/en/",
+    "credentials": {
+        "email": "1030819098",
+        "password": "M0h@med1"
+    },
+    "address": {
+        "fullName": "Mohamed Ahmed",
+        "phoneNumber": "01201234567",
+        "streetAddress": "90 El-Tahrir Street",
+        "building": "Princess Tower",
+        "city": "New Cairo City",
+        "district": "1 (1st Settlement)",
+        "nearestLandmark": "Cairo festival city",
+        "addressType": "Home",
+        "useAsDefaultAddress": "true"
+    },
+    "filters": {
+        "sortBy": "Price: High to Low",
+        "condition": "New",
+        "freeShipping": true
+    }
+}
